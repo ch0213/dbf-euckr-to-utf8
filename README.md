@@ -22,10 +22,12 @@ n + 1 | 1 byte | 0x0D as the field descriptor array terminator
 출처 : https://en.wikipedia.org/wiki/.dbf
 
 
-![Untitled](https://user-images.githubusercontent.com/49121847/135183659-6220e9ad-f82d-49bb-a8ae-3767225b3ee6.png)
-Z_KAIS_TL_SPBD_BULD_36110.dbf
+
 
 ## 2. 프로그램 구현
+
+![Untitled](https://user-images.githubusercontent.com/49121847/135183659-6220e9ad-f82d-49bb-a8ae-3767225b3ee6.png)
+Z_KAIS_TL_SPBD_BULD_36110.dbf
 
 위 이미지는 Z_KAIS_TL_SPBD_BULD_36110.dbf의 앞 부분이다. 위의 표와 비교하며 필요한 부분만 설명하겠다. 
 
